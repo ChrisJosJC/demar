@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "title": "Cloro",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/cloro.webp"
+        },
+        {
+            "title": "Amoniaco",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/amoniaco.webp"
+        },
+        {
+            "title": "Galon de lavaplatos",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/lavaplato.webp"
+        },
+        {
+            "title": "Desengrasante",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/desengrasante.webp"
+        }
+    ],
+    [
+        {
+            "title": "Agua de bateria",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/agua-bateria.webp"
+        },
+        {
+            "title": "Jabon de cuaba",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/jabon.webp"
+        },
+        {
+            "title": "Jabon Neutro",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/jabon-neutro.webp"
+        },
+        {
+            "title": "Suavimar",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/suavimar.webp"
+        }
+    ],
+    [
+        {
+            "title": "Lavaplatos",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/lavaplatos.webp"
+        },
+        {
+            "title": "Suavimar para bebes",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/suvimar-bebe.webp"
+        },
+        {
+            "title": "Limpiador de Cristal",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/limpia-cristal.webp"
+        },
+        {
+            "title": "Solucion para baterias",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/solucion-bateria.webp"
+        },
+        {
+            "title": "Coolant",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/coolant.webp"
+        }
+    ],
+    [
+        {
+            "title": "Lavaplatos",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/lavaplatos.webp"
+        },
+        {
+            "title": "Suavimar para bebes",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/suvimar-bebe.webp"
+        },
+        {
+            "title": "Limpiador de Cristal",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/limpia-cristal.webp"
+        },
+        {
+            "title": "Solucion para baterias",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/solucion-bateria.webp"
+        },
+        {
+            "title": "Coolant",
+            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "image": "/coolant.webp"
+        }
+    ]
+]
