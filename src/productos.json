@@ -1,100 +1,160 @@
 [
     [
         {
+            "title": "Suavimar para bebes",
+            "short_description": "Suavizante hipoalergénico para ropa de bebés, fragancia delicada.",
+            "long_description": "Suavizante hipoalergénico especialmente formulado para la ropa de los más pequeños, con una fragancia delicada y duradera. Cuida la piel sensible de tu bebé mientras deja la ropa suave y fresca.",
+            "image": "/suvimar-bebe.webp"
+        },
+        {
+            "title": "Galon de Suavimar para bebes",
+            "short_description": "Suavizante para ropa de bebé en galón, cuida la piel sensible.",
+            "long_description": "Suavizante para ropa de bebé en formato galón, especialmente formulado para cuidar la piel sensible de los más pequeños. Deja la ropa con una suavidad incomparable y una fragancia delicada.",
+            "image": "/galon-suavimar-bebe.webp"
+        },
+        {
+            "title": "Galon de Jabon Liquido",
+            "short_description": "Jabón líquido en galón, ideal para lavar ropa y limpieza general.",
+            "long_description": "Jabón líquido en formato galón, perfecto para lavar ropa y limpieza general. Su fórmula suave cuida cada prenda, proporcionando una limpieza efectiva y un aroma agradable.",
+            "image": "/galon-jabon-liquido.webp"
+        },
+        {
+            "title": "Galon de Jabon de Cuaba Liquido",
+            "short_description": "Jabón de cuaba líquido en galón, tradicional y efectivo.",
+            "long_description": "Jabón de cuaba líquido en galón, ideal para la limpieza diaria. Este jabón tradicional es conocido por su efectividad y su capacidad para dejar las prendas limpias y frescas.",
+            "image": "/galon-cuaba-liquido.webp"
+        },
+        {
+            "title": "Galon de Jabon Liquido Suma Color",
+            "short_description": "Jabón líquido Suma Color en galón, protege los colores.",
+            "long_description": "Jabón líquido Suma Color en formato galón, ideal para proteger y mantener vivos los colores de tus prendas. Su fórmula especial evita que los colores se desvanezcan con los lavados.",
+            "image": "/galon-suma-color.webp"
+        },
+        {
+            "title": "Galon de Suavimar",
+            "short_description": "Suavizante en galón, varias fragancias, deja la ropa suave.",
+            "long_description": "Suavizante en galón, disponible en diversas fragancias que dejan tu ropa suave y perfumada. Su fórmula avanzada asegura que tus prendas queden frescas y agradables al tacto.",
+            "image": "/galon-suavimar.webp"
+        }
+    ],
+    [
+        {
+            "title": "Galon de Cloro",
+            "short_description": "Cloro multiusos en galón, desinfecta y blanquea superficies.",
+            "long_description": "Cloro multiusos en formato galón, ideal para desinfectar y blanquear diversas superficies en el hogar. Su fórmula potente elimina gérmenes y bacterias, dejando todo impecable.",
+            "image": "/galon-cloro.webp"
+        },
+        {
+            "title": "Limpiador de Cristal",
+            "short_description": "Limpiador de cristales, deja ventanas y espejos sin rayas.",
+            "long_description": "Limpiador de cristales que deja tus ventanas y espejos impecables y sin rayas. Su fórmula avanzada asegura una limpieza sin residuos y un brillo deslumbrante.",
+            "image": "/limpia-cristal.webp"
+        },
+        {
+            "title": "Galon de ceramidoro",
+            "short_description": "Ceramidoro en galón, limpiador rápido y menos tóxico.",
+            "long_description": "Ceramidoro en galón, nuestro limpiador estrella para cerámicas. Este efectivo producto limpia rápidamente con un menor nivel de toxicidad, manteniendo tus superficies en perfecto estado.",
+            "image": "/galon-ceramidoro.webp"
+        },
+        {
+            "title": "Desinfectantes en Lavanda y Floral",
+            "short_description": "Desinfectantes en lavanda y floral, eliminan el 99.9% de gérmenes.",
+            "long_description": "Desinfectantes en fragancias de lavanda y floral, eliminan el 99.9% de gérmenes. Ideales para mantener tu hogar limpio y con un agradable aroma.",
+            "image": "/desinfectantes.webp"
+        },
+        {
+            "title": "Galon de Desinfectante Lavanda",
+            "short_description": "Desinfectante de lavanda en galón, hogar limpio y fragante.",
+            "long_description": "Desinfectante de lavanda en galón, ideal para mantener tu hogar limpio y con un agradable aroma a lavanda. Elimina eficazmente gérmenes y bacterias.",
+            "image": "/desinfectante-lavanda.webp"
+        },
+        {
+            "title": "Galones de Super Brillo",
+            "short_description": "Super Brillo en galones, acabado brillante y protección.",
+            "long_description": "Super Brillo en formato galón, para un acabado brillante y protección en todas las superficies. Ideal para mantener un brillo deslumbrante en tu hogar.",
+            "image": "/envases-super-brillo.webp"
+        },
+        {
+            "title": "Lavaplatos",
+            "short_description": "Detergente lavaplatos de alta eficiencia, elimina grasa.",
+            "long_description": "Detergente lavaplatos de alta eficiencia, elimina grasa y restos de comida fácilmente. Su fórmula potente deja tus platos limpios y relucientes.",
+            "image": "/lavaplatos.webp"
+        },
+        {
             "title": "Cloro",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "short_description": "Cloro en varios tamaños, potente desinfectante multiusos.",
+            "long_description": "Cloro disponible en medio galón, galón y garrafón, un potente desinfectante para múltiples usos. Elimina gérmenes y bacterias, dejando todo impecable.",
             "image": "/cloro.webp"
         },
         {
             "title": "Amoniaco",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "short_description": "Desinfectante y repelente con amoniaco, hogar libre de gérmenes.",
+            "long_description": "Desinfectante y repelente con amoniaco, ideal para mantener tu hogar libre de gérmenes y plagas. Su potente fórmula asegura una limpieza profunda y protección duradera.",
             "image": "/amoniaco.webp"
         },
         {
-            "title": "Galon de lavaplatos",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/lavaplato.webp"
-        },
-        {
             "title": "Desengrasante",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "short_description": "Desengrasante multiusos, eficaz contra la grasa.",
+            "long_description": "Desengrasante multiusos, ideal para uso doméstico e industrial. Elimina la grasa más difícil en paredes, calderos y herramientas. Rocía, deja actuar y limpia para resultados óptimos.",
             "image": "/desengrasante.webp"
         }
     ],
     [
         {
+            "title": "Solucion para baterias",
+            "short_description": "Solución para baterías que revive y prolonga su vida útil.",
+            "long_description": "Solución para baterías que revive y prolonga la vida útil de tus baterías. Disponible en varios tamaños, asegura el mejor rendimiento para tus vehículos.",
+            "image": "/solucion-bateria.webp"
+        },
+        {
+            "title": "Coolant",
+            "short_description": "Refrigerante para autos, mantiene óptima temperatura del motor.",
+            "long_description": "Refrigerante para autos disponible en garrafón y galón, garantiza una óptima temperatura del motor y previene el sobrecalentamiento. Protege y prolonga la vida de tu motor.",
+            "image": "/coolant.webp"
+        },
+        {
             "title": "Agua de bateria",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "short_description": "Agua desmineralizada para baterías, asegura mejor rendimiento.",
+            "long_description": "Agua desmineralizada para baterías y limpieza, asegura la mejor performance de tus baterías y prolonga su vida útil. Ideal para mantener el rendimiento óptimo de tus vehículos.",
             "image": "/agua-bateria.webp"
         },
         {
-            "title": "Jabon de cuaba",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/jabon.webp"
+            "title": "Super Brillo",
+            "short_description": "Producto para dar brillo a superficies, hogar y auto.",
+            "long_description": "Producto para dar un brillo espectacular a las superficies, ideal para uso en el hogar y en el auto. Proporciona un acabado brillante y protege contra el desgaste diario.",
+            "image": "/super-brillo.webp"
+        },
+        {
+            "title": "Galones de Super Brillo",
+            "description": "Super Brillo en galones, para un acabado brillante y protección en todas tus llantas y neumaticos.",
+            "image": "/envases-super-brillo.webp",
+            "categoria": "Limpieza"
+        }
+    ],
+    [
+        {
+            "title": "Shampoo de manzana roja",
+            "short_description": "Shampoo de manzana roja, nutre y da brillo a tu cabello.",
+            "long_description": "Shampoo con fragancia de manzana roja, ideal para todo tipo de cabello. Su fórmula nutritiva y refrescante aporta brillo y suavidad a tu melena.",
+            "image": "/shampoo-manzana-roja.webp"
+        },
+        {
+            "title": "Shampoo de manzana verde",
+            "short_description": "Shampoo de manzana verde, revitaliza y fortalece tu cabello.",
+            "long_description": "Shampoo con fragancia de manzana verde, revitaliza y fortalece tu cabello, dejándolo suave y brillante. Ideal para todo tipo de cabello, proporcionando una limpieza profunda y un aroma fresco.",
+            "image": "/shampoo-manzana-verde.webp"
+        },
+        {
+            "title": "Shampoo para todo pelo",
+            "short_description": "Shampoo para todo tipo de cabello, limpia y acondiciona.",
+            "long_description": "Shampoo universal para todo tipo de cabello, limpia y acondiciona eficazmente. Su fórmula equilibrada deja tu cabello suave, manejable y con un aroma agradable.",
+            "image": "/shampoo-general.webp"
         },
         {
             "title": "Jabon Neutro",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
+            "short_description": "Jabón líquido neutro para ropa blanca y de uso general.",
+            "long_description": "Jabón líquido neutro para ropa blanca y de uso general, cuida tus prendas delicadas y proporciona una limpieza efectiva. Ideal para el uso diario, asegurando que tu ropa siempre esté fresca y limpia.",
             "image": "/jabon-neutro.webp"
-        },
-        {
-            "title": "Suavimar",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/suavimar.webp"
-        }
-    ],
-    [
-        {
-            "title": "Lavaplatos",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/lavaplatos.webp"
-        },
-        {
-            "title": "Suavimar para bebes",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/suvimar-bebe.webp"
-        },
-        {
-            "title": "Limpiador de Cristal",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/limpia-cristal.webp"
-        },
-        {
-            "title": "Solucion para baterias",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/solucion-bateria.webp"
-        },
-        {
-            "title": "Coolant",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/coolant.webp"
-        }
-    ],
-    [
-        {
-            "title": "Lavaplatos",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/lavaplatos.webp"
-        },
-        {
-            "title": "Suavimar para bebes",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/suvimar-bebe.webp"
-        },
-        {
-            "title": "Limpiador de Cristal",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/limpia-cristal.webp"
-        },
-        {
-            "title": "Solucion para baterias",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/solucion-bateria.webp"
-        },
-        {
-            "title": "Coolant",
-            "description": "Lorem Lorem cupidatat nostrud minim occaecat adipisicing incididunt laborum voluptate duis Lorem.",
-            "image": "/coolant.webp"
         }
     ]
 ]

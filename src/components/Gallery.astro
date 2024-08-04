@@ -1,28 +1,33 @@
 ---
 const { products } = Astro.props;
+
+const titles= [
+"Hogar", "Limpieza", "Automotriz", "Cuidado Personal"
+]
 ---
 
 <main class="w-full min-h-screen mb-4">
-	<ul
-		class="grid place-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 px-2 sm:mr-4 box-border"
-	>
+	<ul class="grid grid-cols-1 gap-4 px-2 sm:mr-4 box-border">
 		{
-			products.map((column: any[]) => {
+			products.map((column: any[], i) => {
 				return (
-					<li class="grid gap-4">
-						{column.map(({ image, title, description }) => {
+						<h2 class="font-bold text-3xl my-4 underline">{titles[i]}</h2>
+					<li class="grid gap-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1">
+						{column.map(({ image, title, short_description }) => {
 							return (
-								<div class="relative group shadow-md rounded-lg shadow-slate-500/30 overflow-hidden">
+								<div class="flex flex-col group shadow-md rounded-lg shadow-slate-500/30">
 									<img
-										class="h-auto group-hover:scale-110  w-full object-cover rounded-lg transition-transform duration-200"
+										class="max-h-80 object-cover aspect-square duration-200 hover:object-contain transition-all"
 										src={image}
 										alt={title}
 									/>
-									<div class="absolute top-0 w-full h-full transition-opacity opacity-0 group-hover:opacity-100 flex flex-col items-baseline justify-end text-white bg-gradient-to-tr group-hover:flex from-indigo-800 via-transparent hover:via-black/50  to-transparent rounded-lg p-2">
+									<div class="group-hover:opacity-100 flex flex-col items-baseline justify-end  bg-gradient-to-tr p-2">
 										<h3 class="text-lg font-bold">
 											{title}
 										</h3>
-										<p class="text-sm">{description}</p>
+										<p class="text-sm">
+											{short_description}
+										</p>
 									</div>
 								</div>
 							);
