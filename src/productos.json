@@ -126,7 +126,8 @@
         },
         {
             "title": "Galones de Super Brillo",
-            "description": "Super Brillo en galones, para un acabado brillante y protección en todas tus llantas y neumaticos.",
+            "short_description": "Super Brillo en galones, para un acabado brillante y protección en todas tus llantas y neumaticos.",
+            "long_description": "Super Brillo en galones, para un acabado brillante y protección en todas tus llantas y neumaticos.",
             "image": "/envases-super-brillo.webp",
             "categoria": "Limpieza"
         }

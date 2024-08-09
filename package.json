@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.0",
+    "@fontsource/poppins": "^5.0.14",
     "@midudev/tailwind-animations": "^0.0.7",
     "@shrutibalasa/tailwind-grid-auto-fit": "^1.1.0",
     "astro": "^4.3.2",
